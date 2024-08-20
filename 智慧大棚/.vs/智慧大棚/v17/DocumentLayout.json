@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA.csproj|solutionrelative:\u667A\u6167\u5927\u68DA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA.csproj|d:\\\u684C\u9762\\gitee\\\u667A\u6167\u5927\u68DA\\zhdp\\\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA.csproj|D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA.csproj|solutionrelative:\u667A\u6167\u5927\u68DA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -66,8 +66,7 @@
               "ToolTip": "D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u68DA\\\u667A\u6167\u5927\u68DA\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "\u667A\u6167\u5927\u68DA\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:28:43.552Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-08-20T03:28:43.552Z"
             }
           ]
         }

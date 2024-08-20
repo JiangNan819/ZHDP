@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u9E4F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F.csproj|d:\\\u684C\u9762\\gitee\\\u667A\u6167\u5927\u68DA\\zhdp\\\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F.csproj|solutionrelative:\u667A\u6167\u5927\u9E4F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F.csproj|D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2907DAF5-4EB6-4801-9A65-5DC45679C417}|\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F.csproj|solutionrelative:\u667A\u6167\u5927\u9E4F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F\\Form1.cs",
+              "RelativeDocumentMoniker": "\u667A\u6167\u5927\u9E4F\\Form1.cs",
+              "ToolTip": "D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F\\Form1.cs",
+              "RelativeToolTip": "\u667A\u6167\u5927\u9E4F\\Form1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:13:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F\\Form1.cs",
+              "RelativeDocumentMoniker": "\u667A\u6167\u5927\u9E4F\\Form1.cs",
+              "ToolTip": "D:\\\u684C\u9762\\Gitee\\\u667A\u6167\u5927\u68DA\\ZHDP\\\u667A\u6167\u5927\u9E4F\\\u667A\u6167\u5927\u9E4F\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u667A\u6167\u5927\u9E4F\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:13:45.451Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

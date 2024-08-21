@@ -11,3 +11,17 @@ C:\Users\Administrator\Desktop\智慧大鹏2.0\-2.0\智慧大鹏\智慧大鹏\ob
 C:\Users\Administrator\Desktop\智慧大鹏2.0\-2.0\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.csproj.CopyComplete
 C:\Users\Administrator\Desktop\智慧大鹏2.0\-2.0\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.exe
 C:\Users\Administrator\Desktop\智慧大鹏2.0\-2.0\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.pdb
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\bin\Debug\智慧大鹏.exe.config
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\bin\Debug\智慧大鹏.exe
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\bin\Debug\智慧大鹏.pdb
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\bin\Debug\NModbus4.dll
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\bin\Debug\NModbus4.xml
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.csproj.AssemblyReference.cache
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.Form1.resources
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.Properties.Resources.resources
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.csproj.GenerateResource.cache
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.csproj.CoreCompileInputs.cache
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.csproj.Up2Date
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.exe
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.pdb
+D:\vs文档\git文件\smart-greenhouse\智慧大鹏\智慧大鹏\obj\Debug\智慧大鹏.Form2.resources

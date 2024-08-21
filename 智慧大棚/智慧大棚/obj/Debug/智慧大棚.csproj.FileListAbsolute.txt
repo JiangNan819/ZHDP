@@ -5,6 +5,7 @@ D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\bin\Debug\NModbus4.d
 D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\bin\Debug\NModbus4.xml
 D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\obj\Debug\智慧大棚.csproj.AssemblyReference.cache
 D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\obj\Debug\智慧大鹏.Form1.resources
+D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\obj\Debug\智慧大鹏.Form2.resources
 D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\obj\Debug\智慧大鹏.Properties.Resources.resources
 D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\obj\Debug\智慧大棚.csproj.GenerateResource.cache
 D:\桌面\Gitee\智慧大棚\ZHDP\智慧大棚\智慧大棚\obj\Debug\智慧大棚.csproj.CoreCompileInputs.cache

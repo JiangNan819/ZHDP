@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.Common;
 using System.Data.SqlClient;
@@ -9,61 +10,63 @@ using System.Threading.Tasks;
 
 namespace 智慧大鹏
 {
-    public static class SQLserver
+    public  class SQLserver
     {
-        static string Strsql = "Server='LAPTOP-62S7LNFF';Database='GreenData';Uid='sa';Pwd='123456'";
+        // 连接字符串
+        private static string connStr = ConfigurationManager.
+            ConnectionStrings["connStr"].ConnectionString;
 
-        /// <summary>
-        /// 执行增删改
-        /// </summary>
-        /// <param name="sql"></param>
-        /// <returns></returns>
-        public static int Update(string sql)
+
+
+        public static object GetSingleResult()
         {
-            SqlConnection connection = new SqlConnection(Strsql);
-            SqlCommand cmd = new SqlCommand(sql,connection);
-            try
-            {
-                connection.Open();
-                return cmd.ExecuteNonQuery();
-            }
-            catch (Exception ex)
-            {
-                
-                throw ex;
-            }
-            finally
-            {
-                connection.Close();
-            }
-
+            return "返回结果";
         }
 
-        public static DataSet GetDataSet(string sql)
+        // 主分支进行修改
+
+        // 查询
+        public static SqlDataReader SelectResult(string sql)
         {
-            SqlConnection connection = new SqlConnection( Strsql);
-            SqlCommand cmd = new SqlCommand(sql,connection);
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            DataSet ds = new DataSet();
+            SqlConnection conn = new SqlConnection(connStr);
+            SqlCommand cmd = new SqlCommand(sql, conn);
+
             try
             {
-                connection.Open();
-                da.Fill(ds);
-                return ds;
-            }
-            catch (Exception )
-            {
+                conn.Open();
 
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                return reader;
+            }
+            catch (Exception ex) 
+            { 
                 return null;
             }
-            finally
-            {
-                connection.Close();
-            }
-
-
         }
 
+
+        //增删改
+
+        public static int Update(string sql)
+        {
+            SqlConnection conn = new SqlConnection(connStr);
+            SqlCommand cmd = new SqlCommand(sql, conn);
+
+            try
+            {
+                conn.Open();
+                int count = cmd.ExecuteNonQuery();
+                return count;
+            }
+            catch (Exception ex) 
+            { 
+                return 0;
+            }
+        }
+
+
+        // 事务
 
 
     }

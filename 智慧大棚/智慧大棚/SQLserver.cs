@@ -39,7 +39,7 @@ namespace 智慧大鹏
 
                 return reader;
             }
-            catch (Exception ex) 
+            catch (Exception) 
             { 
                 return null;
             }
@@ -59,7 +59,7 @@ namespace 智慧大鹏
                 int count = cmd.ExecuteNonQuery();
                 return count;
             }
-            catch (Exception ex) 
+            catch (Exception) 
             { 
                 return 0;
             }
@@ -67,7 +67,6 @@ namespace 智慧大鹏
 
 
         // 事务
-
-
+                
     }
 }
